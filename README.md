@@ -50,10 +50,12 @@ The plot shows the percentage of people vaccinated per hundred over time:
 ---
 
 ## 📂 Project Structure
+
+```bash
 ├── covid-data.csv                      # Dataset
 ├── script.R                            # Main R script
 └── README.md                           # Project documentation
-
+```
 
 ---
 
@@ -80,12 +82,11 @@ This project is licensed under the MIT License.
 
 ---
 
-✨ Author
+## ✨ Author
 
-Darshan
+### Darshan
 
 ```bash
----
 
 Let me know if you’d like me to generate a `.Rproj` file, `.gitignore`, or publish the repo structure for upload to GitHub!
 
