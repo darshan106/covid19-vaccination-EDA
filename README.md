@@ -63,7 +63,7 @@ The plot shows the percentage of people vaccinated per hundred over time:
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/covid19-vaccination-analysis-R.git
+git clone https://github.com/your-username/covid19-vaccination-EDA.git
 ```
 2.	Open the R script and run in RStudio or any R environment.
 3.	Make sure you install the required packages before running:
